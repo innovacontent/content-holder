@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Innova Contents"
+title:  "Welcome to Innova Content"
 date:   2022-01-14 13:15:03 +0300
 categories: Research
 description: "This are thoughts and ideas from the Innova Engineering Team."
