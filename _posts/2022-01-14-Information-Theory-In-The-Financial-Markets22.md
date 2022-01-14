@@ -1,10 +1,10 @@
 ---
 layout:post
 useMath: true
-title:"Information Theory in The Financial Markets"
-date:2022-01-14
-categories:Research
-description:"Information theory is the mathematical treatment of the concepts, parameters and rules governing the transmission of messages through communication systems"
+title: "Information Theory in The Financial Markets"
+date: 2022-01-14
+categories: Research
+description: "Information theory is the mathematical treatment of the concepts, parameters and rules governing the transmission of messages through communication systems"
 ---
 
 # **Information Theory in The Financial Markets**
