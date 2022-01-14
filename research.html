@@ -1,0 +1,13 @@
+---
+layout: page
+title: Research Articles
+permalink: /research/
+---
+
+{% for post in site.categories.Research %}
+
+<span>{{ post.date | date_to_string }}</span> &nbsp; <br />
+<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+<p>{{ post.description | truncatewords: 30 }}</p>
+
+{% endfor %}
