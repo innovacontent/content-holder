@@ -1,6 +1,5 @@
 ---
-layout:post
-useMath: true
+layout: post
 title: "Information Theory in The Financial Markets"
 date: 2022-01-14
 categories: Research
